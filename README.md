@@ -10,3 +10,22 @@ I like to play basketball and I like to sleep a lot.
 This is my second year of taking Software Enginnering class.
 
 My email is vivianz7319@hstat.org
+
+##### Schedule 
+
+Period 1: Algerba 2 
+
+Period 2: Chemistry 
+
+Period 3: English 
+
+Period 4: Software Enginnering 
+
+Period 5: Spanish 
+
+Period 6: Lunch 
+
+Period 7: Big History (bhp)
+
+Period 8: Global History 
+
