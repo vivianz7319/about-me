@@ -11,7 +11,7 @@ This is my second year of taking Software Enginnering class.
 
 My email is _vivianz7319@hstat.org_
 
-##### **Schedule**
+## **Schedule**
 
 **Period 1**: Algerba 2 
 
