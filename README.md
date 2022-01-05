@@ -13,7 +13,7 @@ My email is _vivianz7319@hstat.org_
 
 ## **Schedule**
 
-**Period 1**: Algerba 2 
+**Period 1**: Algebra 2 
 
 **Period 2**: Chemistry 
 
@@ -29,3 +29,4 @@ My email is _vivianz7319@hstat.org_
 
 **Period 8**: Global History 
 
+Reviewed by Grace Zhu
