@@ -11,6 +11,10 @@ This is my second year of taking Software Enginnering class.
 
 My email is _vivianz7319@hstat.org_
 
+My birthday is September 17, 2005.
+
+My zodiac sign is a Virgo.
+
 ## **Schedule**
 
 **Period 1**: Algerba 2 
