@@ -17,7 +17,7 @@ My zodiac sign is a Virgo.
 
 ## **Schedule**
 
-**Period 1**: Algerba 2 
+**Period 1**: Algebra 2 
 
 **Period 2**: Chemistry 
 
@@ -33,3 +33,4 @@ My zodiac sign is a Virgo.
 
 **Period 8**: Global History 
 
+Reviewed by Grace Zhu
